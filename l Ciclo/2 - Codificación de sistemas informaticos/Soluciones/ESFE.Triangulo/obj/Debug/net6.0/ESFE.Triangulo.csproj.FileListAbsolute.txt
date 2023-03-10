@@ -1,0 +1,15 @@
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\bin\Debug\net6.0\ESFE.Triangulo.exe
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\bin\Debug\net6.0\ESFE.Triangulo.deps.json
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\bin\Debug\net6.0\ESFE.Triangulo.runtimeconfig.json
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\bin\Debug\net6.0\ESFE.Triangulo.dll
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\bin\Debug\net6.0\ESFE.Triangulo.pdb
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.csproj.AssemblyReference.cache
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.AssemblyInfoInputs.cache
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.AssemblyInfo.cs
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.dll
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\refint\ESFE.Triangulo.dll
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.pdb
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ESFE.Triangulo.genruntimeconfig.cache
+C:\Users\joanz\OneDrive\Escritorio\ESFE\l Ciclo\2 - Codificación de sistemas informaticos\Soluciones\ESFE.Triangulo\obj\Debug\net6.0\ref\ESFE.Triangulo.dll
